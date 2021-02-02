@@ -2,7 +2,7 @@ It's an OUI lookup tool written in Python3.
 This tool uses the Wireshark's publicly available manufacturer database.
 link: https://gitlab.com/wireshark/wireshark/-/raw/master/manuf
 
-Install dependencie:
+Install dependency:
 pip3 install requests
 
 Usage:
